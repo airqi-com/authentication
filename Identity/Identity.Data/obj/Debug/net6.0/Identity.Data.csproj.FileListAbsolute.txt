@@ -1,0 +1,15 @@
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.AssemblyReference.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfoInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfo.cs
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.CoreCompileInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.deps.json
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\bin\Debug\net6.0\Identity.Common.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\bin\Debug\net6.0\Identity.Common.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.CopyComplete
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\refint\Identity.Data.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Data\obj\Debug\net6.0\ref\Identity.Data.dll

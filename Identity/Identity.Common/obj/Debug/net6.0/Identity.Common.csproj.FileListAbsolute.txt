@@ -1,0 +1,12 @@
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\bin\Debug\net6.0\Identity.Common.deps.json
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\bin\Debug\net6.0\Identity.Common.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\bin\Debug\net6.0\Identity.Common.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.csproj.AssemblyReference.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.AssemblyInfoInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.AssemblyInfo.cs
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.csproj.CoreCompileInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\refint\Identity.Common.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\Identity.Common.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Common\obj\Debug\net6.0\ref\Identity.Common.dll

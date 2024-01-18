@@ -1,0 +1,12 @@
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\bin\Debug\net6.0\Identity.Business.deps.json
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\bin\Debug\net6.0\Identity.Business.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\bin\Debug\net6.0\Identity.Business.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.csproj.AssemblyReference.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.AssemblyInfoInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.AssemblyInfo.cs
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.csproj.CoreCompileInputs.cache
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\refint\Identity.Business.dll
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\Identity.Business.pdb
+C:\Users\petmih\Desktop\identity-service\Identity\Identity.Business\obj\Debug\net6.0\ref\Identity.Business.dll
